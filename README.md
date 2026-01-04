@@ -1,4 +1,14 @@
-# PF-Project-Hotel-Management-System.
+
+GROUP MEMBER:
+ALI HASSAN             25021519-210
+ABDULLAH BASHARAT      25021519-175
+M.SHAFAY NADEEM        25021519-070
+MUHAMMAD AHMED         25021519-154        
+
+
+1.Title:
+PF-Project-Hotel-Management-System.
+
 2. Objective
 
 The main objective of this project is to develop a simple console-based Hotel Management System that allows the hotel staff to:
